@@ -1,0 +1,2 @@
+# Cross-function branch targets back into func_80049630 (OS exception-handler code)
+func_80049BA4  # break ops, coprocessor regs; jal only from func_80049630

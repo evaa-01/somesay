@@ -1,0 +1,480 @@
+[  0%] (built-in signatures)                            [  0%] (built-in signatures)                            [  1%] (built-in signatures)                            [  2%] (built-in signatures)                            [  3%] (built-in signatures)                            [  4%] (built-in signatures)                            [  5%] (built-in signatures)                            [  6%] (built-in signatures)                            [  7%] (built-in signatures)                            [  8%] (built-in signatures)                            [  9%] (built-in signatures)                            [ 10%] (built-in signatures)                            [ 11%] (built-in signatures)                            [ 12%] (built-in signatures)                            [ 13%] (built-in signatures)                            [ 14%] (built-in signatures)                            [ 15%] (built-in signatures)                            [ 16%] (built-in signatures)                            [ 17%] (built-in signatures)                            [ 18%] (built-in signatures)                            [ 19%] (built-in signatures)                            [ 20%] (built-in signatures)                            [ 21%] (built-in signatures)                            [ 22%] (built-in signatures)                            [ 23%] (built-in signatures)                            [ 24%] (built-in signatures)                            [ 25%] (built-in signatures)                            [ 26%] (built-in signatures)                            [ 27%] (built-in signatures)                            [ 28%] (built-in signatures)                            [ 29%] (built-in signatures)                            [ 30%] (built-in signatures)                            [ 31%] (built-in signatures)                            [ 32%] (built-in signatures)                            [ 33%] (built-in signatures)                            [ 34%] (built-in signatures)                            [ 35%] (built-in signatures)                            [ 36%] (built-in signatures)                            [ 37%] (built-in signatures)                            [ 38%] (built-in signatures)                            [ 39%] (built-in signatures)                            [ 40%] (built-in signatures)                            [ 41%] (built-in signatures)                            [ 42%] (built-in signatures)                            [ 43%] (built-in signatures)                            [ 44%] (built-in signatures)                            [ 45%] (built-in signatures)                            [ 46%] (built-in signatures)                            [ 47%] (built-in signatures)                            [ 48%] (built-in signatures)                            [ 49%] (built-in signatures)                            [ 50%] (built-in signatures)                            [ 51%] (built-in signatures)                            [ 52%] (built-in signatures)                            [ 53%] (built-in signatures)                            [ 54%] (built-in signatures)                            [ 55%] (built-in signatures)                            [ 56%] (built-in signatures)                            [ 57%] (built-in signatures)                            [ 58%] (built-in signatures)                            [ 59%] (built-in signatures)                            [ 60%] (built-in signatures)                            [ 61%] (built-in signatures)                            [ 62%] (built-in signatures)                            [ 63%] (built-in signatures)                            [ 64%] (built-in signatures)                            [ 65%] (built-in signatures)                            [ 66%] (built-in signatures)                            [ 67%] (built-in signatures)                            [ 68%] (built-in signatures)                            [ 69%] (built-in signatures)                            [ 70%] (built-in signatures)                            [ 71%] (built-in signatures)                            [ 72%] (built-in signatures)                            [ 73%] (built-in signatures)                            [ 74%] (built-in signatures)                            [ 75%] (built-in signatures)                            [ 76%] (built-in signatures)                            [ 77%] (built-in signatures)                            [ 78%] (built-in signatures)                            [ 79%] (built-in signatures)                            [ 80%] (built-in signatures)                            [ 81%] (built-in signatures)                            [ 82%] (built-in signatures)                            [ 83%] (built-in signatures)                            [ 84%] (built-in signatures)                            [ 85%] (built-in signatures)                            [ 86%] (built-in signatures)                            [ 87%] (built-in signatures)                            [ 88%] (built-in signatures)                            [ 89%] (built-in signatures)                            [ 90%] (built-in signatures)                            [ 91%] (built-in signatures)                            [ 92%] (built-in signatures)                            [ 93%] (built-in signatures)                            [ 94%] (built-in signatures)                            [ 95%] (built-in signatures)                            [ 96%] (built-in signatures)                            [ 97%] (built-in signatures)                            [ 98%] (built-in signatures)                            rmonmisc_text_010C = 0x700006B4;
+__assert = 0x70009480;
+n_alSynRemovePlayer = 0x7000FF18;
+guMtxF2L = 0x70044C00;
+guMtxIdentF = 0x70044D40;
+perspective_text_0170 = 0x70044FF0;
+perspective_text_0328 = 0x700451A8;
+sinf = 0x70045200;
+sinf_text_00D8 = 0x700452D8;
+sinf_text_0198 = 0x70045398;
+osGetCount = 0x700453A0;
+osInvalDCache = 0x700453B0;
+osWritebackDCache = 0x700454C0;
+osCreateMesgQueue = 0x70045570;
+osCreateThread = 0x700455A0;
+initialize_text_01FC = 0x7004586C;
+osRecvMesg = 0x70045880;
+recvmesg_text_0104 = 0x70045984;
+osSendMesg = 0x700459B0;
+sendmesg_text_010C = 0x70045ABC;
+osSetEventMesg = 0x70045AE0;
+osSetThreadPri = 0x70045B40;
+osSetTimer = 0x70045C10;
+osStartThread = 0x70045CB0;
+startthread_text_00A4 = 0x70045D54;
+startthread_text_00F8 = 0x70045DA8;
+stopthread_text_0098 = 0x70045E68;
+__osDequeueThread = 0x70045F50;
+thread_text_002C = 0x70045F7C;
+__osTimerServicesInit = 0x70045F90;
+__osTimerInterrupt = 0x70045FE4;
+timerintr_text_0074 = 0x70046004;
+timerintr_text_0180 = 0x70046110;
+__osSetTimerIntr = 0x70046120;
+__osInsertTimer = 0x70046180;
+timerintr_text_0300 = 0x700461E8;
+aisetfreq_text_008C = 0x7004632C;
+aisetnextbuf_text_004C = 0x7004641C;
+vimgr_text_01EC = 0x7004689C;
+__osViSwapContext = 0x70046C50;
+viswapcontext_text_0084 = 0x70046CD4;
+viswapcontext_text_0118 = 0x70046D68;
+viswapcontext_text_014C = 0x70046D9C;
+viblack_text_0044 = 0x70046F84;
+__osSiRawReadIo = 0x70046FA0;
+__osSiRawWriteIo = 0x70047030;
+contreaddata_text_0124 = 0x700471C4;
+controller_text_0174 = 0x700473F4;
+controller_text_019C = 0x7004741C;
+controller_text_0250 = 0x700474D0;
+conteepread_text_0178 = 0x70047708;
+conteepread_text_0194 = 0x70047724;
+conteepwrite_text_0168 = 0x70047948;
+conteepwrite_text_0188 = 0x70047968;
+__osEepStatus = 0x70047A2C;
+conteepprobe_text_0058 = 0x70047C18;
+motor_text_0150 = 0x70047D90;
+motor_text_066C = 0x700482AC;
+motor_text_07EC = 0x7004842C;
+motor_text_082C = 0x7004846C;
+osPiRawReadIo = 0x70048490;
+osEPiRawStartDma = 0x700486C0;
+epirawdma_text_0138 = 0x700487F8;
+epirawdma_text_01A4 = 0x70048864;
+epirawdma_text_01B0 = 0x70048870;
+devmgr_text_0030 = 0x70048AA0;
+devmgr_text_0358 = 0x70048DC8;
+__osPiCreateAccessQueue = 0x70048E30;
+pidma_text_0098 = 0x70048FB8;
+bcopy = 0x70048FD0;
+bzero = 0x700492F0;
+strchr = 0x70049390;
+string_text_0030 = 0x700493C0;
+strlen = 0x700493C8;
+memcpy = 0x700493EC;
+cosf = 0x700494E0;
+cosf_text_0148 = 0x70049628;
+__osEnqueueAndYield = 0x70049C94;
+__osEnqueueThread = 0x70049D9C;
+__osPopThread = 0x70049DE4;
+__osDispatchThread = 0x70049DF4;
+__osGetSR = 0x70049F80;
+osInvalICache = 0x70049F90;
+__osDisableInt = 0x7004A010;
+__osRestoreInt = 0x7004A030;
+__osSetCompare = 0x7004A0F0;
+__osSetFpcCsr = 0x7004A100;
+__osSetSR = 0x7004A110;
+osMapTLBRdb = 0x7004A120;
+destroythread_text_0048 = 0x7004A1C8;
+destroythread_text_0098 = 0x7004A218;
+osGetThreadPri = 0x7004A250;
+osGetTime = 0x7004A270;
+osJamMesg = 0x7004A300;
+jammesg_text_0110 = 0x7004A410;
+__osResetGlobalIntMask = 0x7004A440;
+__osSetGlobalIntMask = 0x7004A490;
+osVirtualToPhysical = 0x7004A4D0;
+virtualtophysical_text_0048 = 0x7004A518;
+osYieldThread = 0x7004A530;
+__osAiDeviceBusy = 0x7004A580;
+__osSpDeviceBusy = 0x7004A5A0;
+__osSpSetStatus = 0x7004A5C0;
+__osSpSetPc = 0x7004A5D0;
+spsetpc_text_0028 = 0x7004A5F8;
+__osSpRawStartDma = 0x7004A600;
+sprawdma_text_00D0 = 0x7004A6D0;
+__osViInit = 0x7004A700;
+vi_text_0094 = 0x7004A794;
+__osViGetCurrentContext = 0x7004A810;
+__osSiDeviceBusy = 0x7004A820;
+__osSiRawStartDma = 0x7004A840;
+sirawdma_text_0080 = 0x7004A8C0;
+__osSiCreateAccessQueue = 0x7004A900;
+__osSiGetAccess = 0x7004A954;
+__osSiRelAccess = 0x7004A9C0;
+__osContAddressCrc = 0x7004A9F0;
+__osContDataCrc = 0x7004AA38;
+__osContRamRead = 0x7004AAA0;
+contramread_text_0158 = 0x7004ABF8;
+contramread_text_01E8 = 0x7004AC88;
+contramread_text_01EC = 0x7004AC8C;
+contramread_text_0234 = 0x7004ACD4;
+contramread_text_0380 = 0x7004AE20;
+__osContRamWrite = 0x7004AE70;
+contramwrite_text_0178 = 0x7004AFE8;
+contramwrite_text_0220 = 0x7004B090;
+contramwrite_text_0378 = 0x7004B1E8;
+pfsisplug_text_00D8 = 0x7004B308;
+pfsisplug_text_017C = 0x7004B3AC;
+pfsisplug_text_0240 = 0x7004B450;
+__osPfsGetStatus = 0x7004B510;
+pfsgetstatus_text_00C4 = 0x7004B5D4;
+pfsgetstatus_text_00E0 = 0x7004B5F0;
+pfsgetstatus_text_0170 = 0x7004B680;
+pirawdma_text_00AC = 0x7004B7AC;
+pirawdma_text_00B8 = 0x7004B7B8;
+osPiGetCmdQueue = 0x7004B7D0;
+osEPiRawReadIo = 0x7004B7F0;
+epirawread_text_0148 = 0x7004B938;
+osEPiRawWriteIo = 0x7004B980;
+epirawwrite_text_0114 = 0x7004BA94;
+leointerrupt_text_03F0 = 0x7004BEC0;
+leointerrupt_text_04E4 = 0x7004BFB4;
+leointerrupt_text_04E8 = 0x7004BFB8;
+leointerrupt_text_04F4 = 0x7004BFC4;
+leointerrupt_text_050C = 0x7004BFDC;
+leointerrupt_text_05DC = 0x7004C0AC;
+_Printf = 0x7004C160;
+xprintf_text_003C = 0x7004C19C;
+xprintf_text_004C = 0x7004C1AC;
+xprintf_text_00A8 = 0x7004C208;
+xprintf_text_0180 = 0x7004C2E0;
+xprintf_text_0228 = 0x7004C388;
+xprintf_text_0250 = 0x7004C3B0;
+xprintf_text_0570 = 0x7004C6D0;
+xprintf_text_0658 = 0x7004C7B8;
+xprintf_text_06F4 = 0x7004C854;
+xprintf_text_0758 = 0x7004C8B8;
+xprintf_text_0788 = 0x7004C8E8;
+xprintf_text_07EC = 0x7004C94C;
+xprintf_text_0898 = 0x7004C9F8;
+xprintf_text_0A1C = 0x7004CB7C;
+__osProbeTLB = 0x7004CB90;
+_Litob = 0x7004CC50;
+xlitob_text_0074 = 0x7004CCC4;
+xlitob_text_0124 = 0x7004CD74;
+_Ldtob = 0x7004CEA0;
+xldtob_text_0074 = 0x7004CF14;
+xldtob_text_01D4 = 0x7004D074;
+xldtob_text_0220 = 0x7004D0C0;
+xldtob_text_02B4 = 0x7004D154;
+xldtob_text_0344 = 0x7004D1E4;
+xldtob_text_03F0 = 0x7004D290;
+xldtob_text_0410 = 0x7004D2B0;
+xldtob_text_0440 = 0x7004D2E0;
+xldtob_text_04DC = 0x7004D370;
+xldtob_text_04D8 = 0x7004D378;
+xldtob_text_0900 = 0x7004D7A0;
+xldtob_text_0A08 = 0x7004D8A8;
+ldiv = 0x7004D920;
+lldiv = 0x7004D9A4;
+__divdi3 = 0x7004E7E0;
+__udivdi3 = 0x7004E950;
+__umoddi3 = 0x7004E970;
+osTvType = 0x80000300;
+osRomBase = 0x80000308;
+osResetType = 0x8000030C;
+osAppNMIBuffer = 0x8000031C;
+__rmonPanic = 0x800006B4;
+myfree = 0x80006A74;
+osViExtendVStart = 0x8000D41C;
+n_alSeqpDelete = 0x8000FF48;
+__dummy = 0x8001E470;
+__osGetActiveQueue = 0x80040B0C;
+guMtxF2L = 0x80044C00;
+guMtxL2F = 0x80044C98;
+guMtxIdentF = 0x80044D40;
+guMtxIdent = 0x80044D90;
+guPerspectiveF = 0x80044E80;
+guPerspective = 0x80045030;
+__sinf = 0x80045200;
+osGetCount = 0x800453A0;
+osWritebackDCacheAll = 0x80045540;
+osCreateMesgQueue = 0x80045570;
+osCreateThread = 0x800455A0;
+osInitialize = 0x80045670;
+osRecvMesg = 0x80045880;
+osSendMesg = 0x800459B0;
+osSetEventMesg = 0x80045AE0;
+osSetThreadPri = 0x80045B40;
+osSetTimer = 0x80045C10;
+osStartThread = 0x80045CB0;
+osStopThread = 0x80045DD0;
+osStopTimer = 0x80045E90;
+__osDequeueThread = 0x80045F50;
+__osTimerServicesInit = 0x80045F90;
+__osTimerInterrupt = 0x80045FE4;
+__osSetTimerIntr = 0x80046120;
+__osInsertTimer = 0x80046180;
+osAiGetStatus = 0x80046290;
+osAiSetFrequency = 0x800462A0;
+osAiSetNextBuffer = 0x800463D0;
+osSpTaskLoad = 0x80046470;
+osSpTaskStartGo = 0x8004667C;
+osCreateViManager = 0x800466B0;
+vimgr_text_0198 = 0x80046848;
+osViSetEvent = 0x800469E0;
+osViSetMode = 0x80046A40;
+osViSetSpecialFeatures = 0x80046A90;
+osViSwapBuffer = 0x80046C00;
+__osViSwapContext = 0x80046C50;
+osViBlack = 0x80046F40;
+__osSpRawReadIo = 0x80046FA0;
+__osSiRawWriteIo = 0x80047030;
+osContStartReadData = 0x800470A0;
+osContGetReadData = 0x80047128;
+__osPackReadData = 0x800471C4;
+osContInit = 0x80047280;
+__osContGetInitData = 0x8004741C;
+__osPackRequestData = 0x800474D0;
+osEepromRead = 0x80047590;
+__osPackEepReadData = 0x80047724;
+osEepromWrite = 0x800477E0;
+__osPackEepWriteData = 0x80047968;
+__osEepStatus = 0x80047A2C;
+osEepromProbe = 0x80047BC0;
+osMotorStop = 0x80047C40;
+osMotorInit = 0x80047FC0;
+osPiRawReadIo = 0x80048490;
+osCreatePiManager = 0x80048530;
+osEPiRawStartDma = 0x800486C0;
+osCartRomInit = 0x80048890;
+osLeoDiskInit = 0x80048970;
+__osDevMgrMain = 0x80048A70;
+__osSiCreateAccessQueue = 0x80048E30;
+__osSiGetAccess = 0x80048E84;
+__osSiRelAccess = 0x80048EF0;
+osPiStartDma = 0x80048F20;
+_bcopy = 0x80048FD0;
+_bzero = 0x800492F0;
+strchr = 0x80049390;
+strlen = 0x800493C8;
+memcpy = 0x800493EC;
+sprintf = 0x80049420;
+proutSprintf = 0x80049478;
+osSyncPrintf = 0x800494C4;
+__cosf = 0x800494E0;
+__osExceptionPreamble = 0x80049630;
+__osException = 0x80049640;
+handle_CpU = 0x80049C60;
+__osPopThread = 0x80049DE4;
+__osCleanupThread = 0x80049F70;
+__osGetSR = 0x80049F80;
+__osDisableInt = 0x8004A010;
+__osRestoreInt = 0x8004A030;
+osSetIntMask = 0x8004A050;
+__osSetCompare = 0x8004A0F0;
+__osSetFpcCsr = 0x8004A100;
+__osSetSR = 0x8004A110;
+osMapTLBRdb = 0x8004A120;
+osDestroyThread = 0x8004A180;
+osGetThreadPri = 0x8004A250;
+MusFxBankNumberOfEffects = 0x8004A260;
+osGetTime = 0x8004A270;
+osJamMesg = 0x8004A300;
+__osResetGlobalIntMask = 0x8004A440;
+__osSetGlobalIntMask = 0x8004A490;
+osVirtualToPhysical = 0x8004A4D0;
+osYieldThread = 0x8004A530;
+__osAiDeviceBusy = 0x8004A580;
+__osSpDeviceBusy = 0x8004A5A0;
+__osSpSetStatus = 0x8004A5C0;
+__osSpSetPc = 0x8004A5D0;
+__osSpRawStartDma = 0x8004A600;
+__osViInit = 0x8004A700;
+__osSiDeviceBusy = 0x8004A820;
+__osSiRawStartDma = 0x8004A840;
+__osContAddressCrc = 0x8004A9F0;
+__osContDataCrc = 0x8004AA38;
+__osContRamRead = 0x8004AAA0;
+__osPackRamReadData = 0x8004ACD4;
+__osContRamWrite = 0x8004AE70;
+__osPackRamWriteData = 0x8004B090;
+osPfsIsPlug = 0x8004B230;
+__osPfsRequestData = 0x8004B3AC;
+__osPfsGetStatus = 0x8004B510;
+__osPfsRequestOneChannel = 0x8004B5F0;
+__osPfsGetOneChannelData = 0x8004B680;
+osPiRawStartDma = 0x8004B700;
+osPiGetCmdQueue = 0x8004B7D0;
+MusPtrBankGetCurrent = 0x8004B7E0;
+osEPiRawReadIo = 0x8004B7F0;
+osEPiRawWriteIo = 0x8004B980;
+__osLeoInterrupt = 0x8004BAD0;
+__osLeoAbnormalResume = 0x8004BFDC;
+__osLeoResume = 0x8004C0AC;
+_Printf = 0x8004C160;
+_Putfld = 0x8004C6D0;
+__osProbeTLB = 0x8004CB90;
+_Litob = 0x8004CC50;
+_Ldtob = 0x8004CEA0;
+_Ldunscale = 0x8004D2E0;
+_Genld = 0x8004D378;
+ldiv = 0x8004D920;
+lldiv = 0x8004D9A4;
+__udiv_w_sdiv = 0x8004F060;
+rspbootTextStart = 0x8004F180;
+__osActiveQueue = 0x8005CC60;
+initialize_data_0000 = 0x8005D710;
+initialize_data_0004 = 0x8005D714;
+osViClock = 0x8005D718;
+__OSGlobalIntMask = 0x8005D720;
+__osThreadTail = 0x8005D730;
+__osRunQueue = 0x8005D738;
+__osActiveQueue = 0x8005D73C;
+__osRunningThread = 0x8005D740;
+timerintr_data_0000 = 0x8005D750;
+aisetnextbuf_data_0000 = 0x8005D760;
+vimgr_data_0000 = 0x8005D770;
+vimgr_data_0004 = 0x8005D774;
+vimgr_data_0008 = 0x8005D778;
+vimgr_data_000C = 0x8005D77C;
+vimgr_data_0010 = 0x8005D780;
+vimgr_data_0014 = 0x8005D784;
+vimgr_data_0018 = 0x8005D788;
+controller_data_0000 = 0x8005E4B0;
+motor_data_0000 = 0x8005E4C0;
+pimgr_data_0000 = 0x8005E4D0;
+pimgr_data_0004 = 0x8005E4D4;
+player_bss_003C = 0x8005E4D8;
+pimgr_data_000C = 0x8005E4DC;
+pimgr_data_0010 = 0x8005E4E0;
+pimgr_data_0014 = 0x8005E4E4;
+pimgr_data_0018 = 0x8005E4E8;
+__osPiTable = 0x8005E4EC;
+__osCurrentHandle = 0x8005E4F0;
+__osPiAccessQueueEnabled = 0x8005E500;
+vi_data_0000 = 0x8005E530;
+vi_data_0002 = 0x8005E532;
+vi_data_0004 = 0x8005E534;
+vi_data_0032 = 0x8005E562;
+vi_data_0034 = 0x8005E564;
+vi_data_0038 = 0x8005E568;
+vi_data_0060 = 0x8005E590;
+__osViNext = 0x8005E594;
+osViModeNtscLan1 = 0x8005E5B0;
+osViModePalLan1 = 0x8005E600;
+osViModeMpalLan1 = 0x8005E650;
+xprintf_data_0000 = 0x8005E6A0;
+xprintf_data_0024 = 0x8005E6C4;
+xlitob_data_0000 = 0x8005E6F0;
+xlitob_data_0014 = 0x8005E704;
+perspective_rodata_0000 = 0x80060960;
+perspective_rodata_0008 = 0x80060968;
+perspective_rodata_0010 = 0x80060970;
+perspective_rodata_0018 = 0x80060978;
+perspective_rodata_0020 = 0x80060980;
+perspective_rodata_0028 = 0x80060988;
+perspective_rodata_0030 = 0x80060990;
+perspective_rodata_0038 = 0x80060998;
+sinf_rodata_0008 = 0x800609A8;
+sinf_rodata_0010 = 0x800609B0;
+sinf_rodata_0018 = 0x800609B8;
+sinf_rodata_0020 = 0x800609C0;
+sinf_rodata_0028 = 0x800609C8;
+sinf_rodata_0030 = 0x800609D0;
+sinf_rodata_0038 = 0x800609D8;
+sinf_rodata_0040 = 0x800609E0;
+sinf_rodata_0048 = 0x800609E8;
+sinf_rodata_0050 = 0x800609F0;
+aisetfreq_rodata_0000 = 0x80060A00;
+viswapcontext_rodata_0000 = 0x80060A10;
+sprawread_rodata_0000 = 0x80060A20;
+sprawread_rodata_0004 = 0x80060A24;
+sirawwrite_rodata_0000 = 0x80060A30;
+sirawwrite_rodata_0004 = 0x80060A34;
+pirawread_rodata_0000 = 0x80060A44;
+pirawread_rodata_0004 = 0x80060A48;
+devmgr_rodata_0000 = 0x80060A58;
+__libm_qnan_f = 0x80060A80;
+cosf_rodata_0008 = 0x80060A98;
+cosf_rodata_0010 = 0x80060AA0;
+cosf_rodata_0018 = 0x80060AA8;
+cosf_rodata_0020 = 0x80060AB0;
+cosf_rodata_0028 = 0x80060AB8;
+cosf_rodata_0030 = 0x80060AC0;
+cosf_rodata_0038 = 0x80060AC8;
+cosf_rodata_0040 = 0x80060AD0;
+cosf_rodata_0048 = 0x80060AD8;
+cosf_rodata_0050 = 0x80060AE0;
+__osRcpImTable = 0x80060B40;
+sprawdma_rodata_0000 = 0x80060BC0;
+sprawdma_rodata_0004 = 0x80060BC4;
+sirawdma_rodata_0000 = 0x80060BD0;
+sirawdma_rodata_0004 = 0x80060BD4;
+epirawread_rodata_0000 = 0x80060BE0;
+epirawread_rodata_0004 = 0x80060BE4;
+xprintf_rodata_0000 = 0x80060BF8;
+xprintf_rodata_0008 = 0x80060C00;
+xprintf_rodata_0020 = 0x80060C18;
+xprintf_rodata_0028 = 0x80060C20;
+xldtob_rodata_0000 = 0x80060D70;
+xldtob_rodata_0048 = 0x80060DB8;
+xldtob_rodata_004C = 0x80060DBC;
+xldtob_rodata_0050 = 0x80060DC0;
+xldtob_rodata_0058 = 0x80060DC8;
+xldtob_rodata_0060 = 0x80060DD0;
+sptask_bss_0000 = 0x800F2C30;
+sptask_bss_0004 = 0x800F2C34;
+sptask_bss_0010 = 0x800F2C40;
+sptask_bss_0018 = 0x800F2C48;
+sptask_bss_001C = 0x800F2C4C;
+sptask_bss_0020 = 0x800F2C50;
+sptask_bss_0028 = 0x800F2C58;
+sptask_bss_002C = 0x800F2C5C;
+sptask_bss_0030 = 0x800F2C60;
+sptask_bss_0038 = 0x800F2C68;
+sptask_bss_003C = 0x800F2C6C;
+vimgr_bss_0000 = 0x800F2C70;
+vimgr_bss_0008 = 0x800F2C78;
+vimgr_bss_11C0 = 0x800F3E30;
+vimgr_bss_11D8 = 0x800F3E48;
+vimgr_bss_11F0 = 0x800F3E60;
+vimgr_bss_11F2 = 0x800F3E62;
+vimgr_bss_11F4 = 0x800F3E64;
+vimgr_bss_1208 = 0x800F3E78;
+vimgr_bss_120A = 0x800F3E7A;
+vimgr_bss_120C = 0x800F3E7C;
+pimgr_bss_0000 = 0x800F3E90;
+pimgr_bss_11B0 = 0x800F5040;
+pimgr_bss_11C8 = 0x800F5058;
+siacs_bss_0000 = 0x800F5060;
+__osBaseCounter = 0x800F6888;
+_motorstopbuf = 0x800F6940;
+__osContPifRam = 0x800F7B30;
+__osContPifRam = 0x800F7B6C;
+__osViIntrCount = 0x800F8300;
+_MotorStartData = 0x800F8490;
+_motorstartbuf = 0x800F8750;
+__osDiskHandle = 0x800FD148;
+__osMaxControllers = 0x80100184;
+__osCurrentTime = 0x8010180C;
+__osEepPifRam = 0x80101FE0;
+__osEepPifRam = 0x8010201C;
+__osPiAccessQueue = 0x80102028;
+__osContLastCmd = 0x801166B0;
+__osEepromTimerMsg = 0x801166D4;
+__osTimerCounter = 0x80117700;
+__additional_scanline = 0x80117D9C;
+LeoDiskHandle = 0x80117DB8;
+gzip_data_0000 = 0x80117E3C;
+_MotorStopData = 0x801186C0;
+__osEventStateTab = 0x801187D8;
+__osEventStateTab = 0x8011881C;
+__osFinalrom = 0x8011CFF0;
+__osPfsPifRam = 0x8011D040;
+__osPfsPifRam = 0x8011D07C;
+__osEepromTimerQ = 0x8011D0B8;
+CartRomHandle = 0x8011D4D0;

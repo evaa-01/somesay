@@ -1,0 +1,17 @@
+[input]
+entrypoint = 0x80000400
+rom_file_path = "rom/game.z64"
+symbols_file_path = "symbols.toml"
+output_func_path = "RecompiledFuncs"
+single_file_output = false
+functions_per_output_file = 50
+
+[patches]
+stubs = [
+    "func_800453B0",  # cache
+    "func_800454C0",  # cache
+    "func_80049C94",  # mfc0
+    "func_80049DF4",  # eret/tlb, mtc0
+    "func_80049F90",  # cache
+    "func_80049BA4",  # manual
+]

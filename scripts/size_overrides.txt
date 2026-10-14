@@ -1,0 +1,3 @@
+# Format: <func_name> <new_size_hex>  # comment (optional)
+# Entry point jr $t2 to 0x80000450 — split func_80000400 at 0x50 bytes
+func_80000400 0x50

@@ -1,0 +1,33 @@
+name: somesay
+options:
+  basename: somesay
+  target_path: rom/game.z64
+  base_path: ..
+  platform: n64
+  compiler: GCC
+  asm_path: asm
+  asset_path: assets
+  build_path: build
+  symbol_addrs_path: symbol_addrs.txt
+  find_file_boundaries: false
+  create_undefined_funcs_auto: true
+  undefined_funcs_auto_path: undefined_funcs_auto.txt
+  create_undefined_syms_auto: true
+  undefined_syms_auto_path: undefined_syms_auto.txt
+
+segments:
+  - name: header
+    type: header
+    start: 0x0
+  - name: ipl3
+    type: bin
+    start: 0x40
+  - name: boot
+    type: code
+    start: 0x1000
+    vram: 0x80000400
+    subsegments:
+      - [0x1000, asm]
+      - [0x4FD80, bin]
+  # End of ROM marker — required for splat to compute the last segment's rom_end
+  - [0xC00000]

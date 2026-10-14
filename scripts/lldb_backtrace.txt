@@ -1,0 +1,4 @@
+file runtime/build/somesay.exe
+script target.GetArguments().extend(["--rom", "rom/game.z64"])
+breakpoint set --name abort
+process launch

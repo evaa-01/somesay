@@ -1,0 +1,4 @@
+# Format: <vram_hex> <name> <size_hex>  # comment (optional)
+# Entry point jr $t2 to this address — split from func_80000400.
+# splat_to_toml.py reads this and adds new function entries into symbols.splat.toml.
+0x80000450 func_80000450 0x1EC
