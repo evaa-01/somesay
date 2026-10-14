@@ -25,4 +25,3 @@ Boots past intro screen but stalls at a busy-wait deadlock (thread blocked on un
 3. Put your ROM into `rom\` (SHA-1 `75ebbe451906ce68b0dd43eef9ee44416452a4f1`, 12 MB, big-endian `.z64`).
 4. Run the pipeline (`scripts\rebuild.ps1`), then build the runtime (`runtime\build.ps1`).
 
-Exported 2026-10-14 from commit `42be722`.
